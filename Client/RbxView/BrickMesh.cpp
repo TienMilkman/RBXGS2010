@@ -31,7 +31,7 @@ namespace RBX
 	{
 		const float BrickMesh::widthInset = 0.0f;
 		const float BrickMesh::normalPerturbation = 0.05f;
-		const float BrickMesh::bevel = 0.15f;
+		const float BrickMesh::bevel = 0.065f;
 
 		void BrickMesh::flushCache()
 		{
